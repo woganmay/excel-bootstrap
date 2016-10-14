@@ -2,6 +2,8 @@
 
 Excel Bootstrap is a VBA module for Microsoft Excel that allows you to generate configurable Bootstrap websites directly from within Excel.
 
+No, for real: https://woganmay.com/2016/10/14/excel-bootstrap/
+
 The generated website can be previewed locally, or optionally published to the excel-bootstrap.cf hosting service. For example: https://excel-bootstrap.cf/woganmay
 
 ![Screenshot of site generator in action](https://raw.githubusercontent.com/woganmay/excel-bootstrap/master/screenshot3.png)
