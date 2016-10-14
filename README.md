@@ -1,6 +1,6 @@
-# excel-bootstrap
+# Excel Bootstrap
 
-![Screenshot of site generator in action](https://raw.githubusercontent.com/woganmay/excel-bootstrap/master/screenshot.png)
+![Screenshot of site generator in action](https://raw.githubusercontent.com/woganmay/excel-bootstrap/master/screenshot-2.png)
 
 Excel Bootstrap is a VBA module for Microsoft Excel that allows you to generate configurable Bootstrap websites directly from within Excel.
 
@@ -12,6 +12,7 @@ The website is published as a single HTML file with all core dependencies includ
 * Configurable Content
 * Minified Output
 * Publish to any location on disk
+* Optional Jumbotron, Navbar and Footer
 
 # Pre-Requisites
 
@@ -25,3 +26,8 @@ The website is published as a single HTML file with all core dependencies includ
 # Support
 
 Haha no
+
+# Version History
+
+* 0.1 - 2016-10-14 
+* MVP - 2016-10-14
