@@ -20,5 +20,8 @@ The website is published as a single HTML file with all core dependencies includ
 # Installation
 
 * Download `excel-bootstrap.xlsm`
-* Run `excel-bootstram.xlsm`
+* Run `excel-bootstrap.xlsm`
 
+# Support
+
+Haha no
