@@ -28,7 +28,16 @@ The generated website can be previewed locally, or optionally published to the e
 
 # Support
 
-Haha no
+Haha no.
+
+No, seriously, don't actually use this for anything in production.
+
+# Roadmap
+
+Upcoming features:
+
+* Adding PHP server script to this repo, so you can host your own Excel Bootstrap server
+* Contact Form feature - enable a contact form and retrieve responses directly into Excel
 
 # Version History
 
